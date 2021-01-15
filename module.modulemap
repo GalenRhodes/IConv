@@ -1,0 +1,5 @@
+module IConv [system] {
+  header "/usr/include/iconv.h"
+  link "iconv"
+  export *
+}
